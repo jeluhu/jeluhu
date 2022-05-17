@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeluhu
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning Rails
-- 💞️ I’m looking to collaborate on anything Cloud
+- 👀 I’m interested in DevOps and Service Automation
+- 🌱 I’m currently learning Azure DevOps
+- 💞️ I’m looking to collaborate on anything Cloud Infrastructure, AI and, ML
 - 📫 How to reach me @jeluhu
 
 <!---
